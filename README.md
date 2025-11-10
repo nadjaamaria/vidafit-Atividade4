@@ -35,15 +35,15 @@ O objetivo é desenvolver uma aplicação web **funcional, responsiva e acessív
 ```text
 vidafit/
 │
-├── index.html          # Página inicial
-├── treinos.html        # Página de treinos
-├── cadastro.html       # Página de cadastro
+├── index.html         
+├── treinos.html        
+├── cadastro.html     
 │
 ├── assets/
 │   ├── css/
-│   │   └── style.css   # Estilos principais
+│   │   └── style.css   
 │   ├── js/
-│   │   └── script.js   # Scripts de interatividade
+│   │   └── script.js  
 │   └── img/
 │       ├── vidafit-banner.jpg
 │       ├── treino1.jpg
